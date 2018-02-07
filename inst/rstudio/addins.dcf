@@ -1,0 +1,4 @@
+Name: Insert Forward Assignment Operator
+Description: Inserts `->` at the cursor position.
+Binding: insertForwardAssignAddin
+Interactive: false
