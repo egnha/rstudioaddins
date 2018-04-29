@@ -5,9 +5,10 @@
 
 An R package of custom [RStudio
 Addins](https://rstudio.github.io/rstudioaddins/), mostly for “missing”
-keyboard shortcuts (such as the forward assignment operator `->`).
-Requires [RStudio](https://www.rstudio.com/products/rstudio/) v0.99.878
-or later.
+keyboard shortcuts, such as the forward assignment operator `->` and the
+[nofrills](https://github.com/egnha/nofrills) forward compose operator
+`%>>>%`. Requires [RStudio](https://www.rstudio.com/products/rstudio/)
+v0.99.878 or later.
 
 (Presently, this is just for my personal use.)
 
