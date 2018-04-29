@@ -7,3 +7,8 @@ Name: Insert dub Assignment Operator
 Description: Inserts `%<=%` at the cursor position.
 Binding: insertdubAssignAddin
 Interactive: false
+
+Name: Insert Forward Compose Operator
+Description: Inserts `%>>>%` at the cursor position.
+Binding: insertForwardComposeAddin
+Interactive: false
