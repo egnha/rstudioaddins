@@ -1,8 +1,8 @@
-#' Insert `%<=%`
+#' Insert `%<<-%`
 #'
-#' Insert `%<=%` at the cursor point.
+#' Insert `%<<-%` at the cursor point.
 #'
 #' @export
 insertdubAssignAddin <- function() {
-  rstudioapi::insertText(" %<=% ")
+  rstudioapi::insertText(" %<<-% ")
 }

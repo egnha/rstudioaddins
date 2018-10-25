@@ -2,10 +2,10 @@
 % Please edit documentation in R/insertdubAssignAddin.R
 \name{insertdubAssignAddin}
 \alias{insertdubAssignAddin}
-\title{Insert `%<=%`}
+\title{Insert `%<<-%`}
 \usage{
 insertdubAssignAddin()
 }
 \description{
-Insert `%<=%` at the cursor point.
+Insert `%<<-%` at the cursor point.
 }
